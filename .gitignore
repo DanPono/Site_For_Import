@@ -4,3 +4,7 @@ tmp/
 # Игнорировать файлы, заканчивающиеся на _old и _backup
 *_old
 *_backup
+# Добейтесь
+# чтобы также были проигнорированы файлы Thumbs.db и .DS_Store
+Thumbs.db
+.DS_Store
